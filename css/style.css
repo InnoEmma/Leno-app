@@ -25,7 +25,7 @@ body {
 .container {
   max-width: 1100px;
   margin: 0 auto;
-  padding-left: 1.7rem;
+  /* padding-left: 1.7rem; */
 }
 
 a {
